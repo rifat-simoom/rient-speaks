@@ -1,11 +1,11 @@
 {
-	"name": "@cassidoo/blahg",
-	"version": "0.0.6",
+	"name": "@rifat-simoom/rient-speaks",
+	"version": "0.0.1",
 	"private": true,
 	"scripts": {
 		"dev": "npx tinacms dev -c \"astro dev\"",
 		"start": "astro dev",
-		"build": "tinacms build && astro build",
+		"build": "astro build",
 		"preview": "astro preview",
 		"astro": "astro"
 	},
