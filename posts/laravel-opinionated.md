@@ -8,7 +8,7 @@ tags:
   - php
   - framework
   - technical
-added: "November 01 2024"
+added: "November 01 2025"
 ---
 
 # Why Laravel is Opinionated (And Why That's a Good Thing)
